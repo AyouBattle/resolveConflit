@@ -1,1 +1,1 @@
-# resolveConflit
+REMOTE
